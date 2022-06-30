@@ -9,8 +9,6 @@ using System.Threading.Tasks;
 
 namespace WinCCOA_OPCServerMonitoring
 {
-
-    //Блять иди нахуй короче черт. Заебал сука. Хуже бабы. То да то нет. Иди в пизду короче.
     class Program
     {
         private static Logger _logger = LogManager.GetCurrentClassLogger();
